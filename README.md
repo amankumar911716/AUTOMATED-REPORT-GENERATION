@@ -18,7 +18,7 @@
 
 PDF Report Generated: student_report.pdf
 
-[student_report.pdf](https://github.com/user-attachments/files/21582930/student_report.pdf)
+[student_report.pdf](https://github.com/user-attachments/files/21582953/student_report.pdf)
 
 ![Image](https://github.com/user-attachments/assets/94127d73-f421-40bf-beff-00448e1116be)
 
